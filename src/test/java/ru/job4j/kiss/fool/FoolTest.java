@@ -27,5 +27,4 @@ class FoolTest {
         assertThat(result).isEqualTo(expected);
 
     }
-  
 }
